@@ -2,3 +2,5 @@
 ---   
 ![image](https://github.com/YOOHYOJEONG/kaggle_study/blob/master/Images/readme_image.jpg?raw=true)   
 ## AIFFEL 캐글 스터디 공부 기록
+
+| Chapter | Link | 
